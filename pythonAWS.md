@@ -27,3 +27,15 @@
 **Following is the output of the program**
 
 ![image](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/math.PNG)
+
+## Program 3 List and Dictionary Demo
+
+**In this program, we've demonstrated the usage of List and Dictionary in Python:**
+1. List contains values 10,20,30,40,50
+2. Dictionary contains Months
+
+**Check out the code [listDict.py](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/listDict.py)**
+
+**Following is the output of the program**
+
+![image](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/listDict.PNG)
