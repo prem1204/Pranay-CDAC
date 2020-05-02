@@ -8,7 +8,7 @@
 3. Multiplication
 4. Division
 
-**Check out the code [calculator.py](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/calculator.py)**
+**Check out the code [calculator.py](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/aws-python/calculator.py)**
 
 **Following is the output of the program**
 
@@ -22,7 +22,7 @@
 3. Power
 4. Floor Division
 
-**Check out the code [math.py](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/math.py)**
+**Check out the code [math.py](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/aws-python/math.py)**
 
 **Following is the output of the program**
 
@@ -34,7 +34,7 @@
 1. List contains values 10,20,30,40,50
 2. Dictionary contains Months
 
-**Check out the code [listDict.py](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/listDict.py)**
+**Check out the code [listDict.py](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/aws-python/listDict.py)**
 
 **Following is the output of the program**
 
