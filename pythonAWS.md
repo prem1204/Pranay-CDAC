@@ -2,7 +2,7 @@
 
 ***Program 1***
 
-##Basic Calculator
+## Basic Calculator
 
 **In this program, we've performed basic calculator funtions:**
 1. Addition
