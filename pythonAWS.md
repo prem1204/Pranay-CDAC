@@ -9,7 +9,7 @@
 4. Division
 
 **Check out the code at**
-[link](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/calculator.png)
+[link](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/calculator.py)
 
 **Following is the output of the program**
-![image](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/calculator.py)
+![image](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/calculator.png)
