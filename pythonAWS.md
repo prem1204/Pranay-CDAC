@@ -12,4 +12,4 @@
 [link] (https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/calculator.png)
 
 **Following is the output of the program**
-![image] (./images/calculator.png)](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/calculator.py)
+![image] (https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/calculator.py)
