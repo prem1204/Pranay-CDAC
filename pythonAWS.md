@@ -1,8 +1,6 @@
 # AWS Assignemnt - Python Programs
 
-***Program 1***
-
-## Basic Calculator
+## Program 1 - Basic Calculator
 
 **In this program, we've performed basic calculator funtions:**
 1. Addition
@@ -16,9 +14,7 @@
 
 ![image](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/calculator.png)
 
-***Program 2***
-
-## Math Functions
+## Program 2 Math Function
 
 **In this program, we've performed some math funtions:**
 1. Square
