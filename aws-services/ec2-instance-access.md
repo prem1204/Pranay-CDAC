@@ -21,7 +21,7 @@
    4. Tick on the checkbox in front of "Specify Username" and give username as "ec2-user"
    5. Click on "Use Prive Key" checkbox and navigate to the "<filename>.pem" file which we downloaded while creating instance. This file contains private key pair.
    6. Now click on "OK"
-   ![connect](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/ec2/start/connect.PNG)
+   ![connect](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/ec2/start/MConnect.PNG)
 8. Now, we've connected to our EC2 instance.
    ![connected](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/ec2/start/connected.PNG)
 
