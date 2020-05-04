@@ -1,4 +1,4 @@
-# Ec2 Instance Creation
+# Ec2 Instance Access
 ***Here you will learn how to access an instance in AWS EC2***
 ***For this puprpose we will need the following:-***
 1. An instance created on EC2, up and running. 
