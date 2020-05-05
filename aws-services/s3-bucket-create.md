@@ -10,6 +10,7 @@
 4. In Create a Bucket, type a bucket name in Bucket Name.
 5. In Region, choose region.
 6. Click on Create. 
+
    ![createBucket2](https://github.com/prem1204/Pranay-Assignments/blob/aws-cloud/images/s3/create/createBucket2.PNG)
 7. When Amazon S3 successfully creates your bucket, the console displays your empty bucket in the Buckets pane.
 
