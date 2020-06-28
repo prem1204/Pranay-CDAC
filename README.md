@@ -3,7 +3,7 @@ All CDAC Assignments would be uploaded in this repository.
 
 ***Branch - Big-Data***
 
-**This branch includes all AWS related Assigments and steps that needs to be followed for creating and using different services.**
+**This branch includes all Big-Data related Assigments and steps that needs to be followed for creating and using different services.**
 
 **This branch has 3 folders**
 1. [aws-service](https://github.com/prem1204/Pranay-Assignments/blob/Big-Data/aws-services) - this folder includes all services related procedures.
