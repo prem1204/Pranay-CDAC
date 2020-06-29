@@ -24,18 +24,18 @@ zipcode int);*
 
 *[Note] -> If you get an infile error while inserting the data follow below steps:-*
 
-   1.  Close current SQL connection
-   2.  Right click on your Connection and select 'Edit Connection'
-   3.  Click on Advanced
-   4.  Add following line to 'Others'
+      *  Close current SQL connection
+      *  Right click on your Connection and select 'Edit Connection'
+      *  Click on Advanced
+      *  Add following line to 'Others'
 
         *OPT_LOCAL_INFILE=1*
 
-   5.  Now Reconnect to your database
+      *  Now Reconnect to your database
 
 5. Now, ssh to your EMR cluster and make sure Sqoop is pre installed in this cluster. 
 
-Click [here](../../../../aws-services/emr-cluster-creation.md) to create new EMR cluster
+Click [here](https://github.com/prem1204/Pranay-CDAC/blob/Big-Data/aws-services/emr-cluster-creation.md) to create new EMR cluster
 
 6. Run sqoop import command to import data from sql database to hdfs
 
