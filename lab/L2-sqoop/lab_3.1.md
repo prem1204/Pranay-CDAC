@@ -35,7 +35,7 @@ zipcode int);*
 
 5. Now, ssh to your EMR cluster and make sure Sqoop is pre installed in this cluster. 
 
-Click [here]((../../../../aws-services/emr-cluster-creation.md) to create new EMR cluster
+Click [here](../../../../aws-services/emr-cluster-creation.md) to create new EMR cluster
 
 6. Run sqoop import command to import data from sql database to hdfs
 
@@ -47,7 +47,7 @@ Click [here]((../../../../aws-services/emr-cluster-creation.md) to create new EM
 
 8. To verify whether data is present in these file use cat command
 
-[sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat.jpeg)
+![sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat.jpeg)
 
 9. Now we will import only salary and age data from the database and put it into new directory named salaries2
 
@@ -59,7 +59,7 @@ Click [here]((../../../../aws-services/emr-cluster-creation.md) to create new EM
 
 11. To verify whether data is present in this file use cat command
 
-[sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat-sal2.jpeg)
+![sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat-sal2.jpeg)
 
 12. Now we will use --split-by command to split our data accoring to a certain column value and put it into new directory named salaries3
 
@@ -71,4 +71,4 @@ Click [here]((../../../../aws-services/emr-cluster-creation.md) to create new EM
 
 14.  To verify whether data is present in this file use cat command
 
-[sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat-sal3.jpeg)
+![sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat-sal3.jpeg)
