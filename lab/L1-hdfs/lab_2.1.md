@@ -105,7 +105,6 @@ Following are the steps to be performed in this lab:-
         **Answer:** The two files that were in the test folder in HDFS were merged into a single file and stored on the local file system.
 
 9.  Specify the Block Size and Replication Factor
-   
    1.  Put /root/devph/labs/Lab2.1/data.txt into /user/root in HDFS, giving it a blocksize of 1,048,576 bytes. 
    
     **Hint** The blocksize is defined using the dfs.blocksize property on the command line.
