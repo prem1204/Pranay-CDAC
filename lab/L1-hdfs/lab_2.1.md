@@ -112,7 +112,7 @@ Following are the steps to be performed in this lab:-
     
     **Answer:**
         
-        ![dfs_blocksize](https://github.com/prem1204/Pranay-Assignments/blob/Big-Data/images/emr/hdfs/dfs_blocksize.PNG)
+     ![dfs_blocksize](https://github.com/prem1204/Pranay-Assignments/blob/Big-Data/images/emr/hdfs/dfs_blocksize.PNG)
 
    2. Run the following fsck command on data.txt
         
