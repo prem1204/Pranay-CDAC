@@ -104,14 +104,15 @@ Following are the steps to be performed in this lab:-
 
         **Answer:** The two files that were in the test folder in HDFS were merged into a single file and stored on the local file system.
 
-9.  Specify the Block Size and Replication Factor
-   1.  Put /root/devph/labs/Lab2.1/data.txt into /user/root in HDFS, giving it a blocksize of 1,048,576 bytes. 
+9. Specify the Block Size and Replication Factor
    
-    **Hint** The blocksize is defined using the dfs.blocksize property on the command line.
-    
-    **Answer:**
+   1. Put /root/devph/labs/Lab2.1/data.txt into /user/root in HDFS, giving it a blocksize of 1,048,576 bytes.
+
+        **Hint** The blocksize is defined using the dfs.blocksize property on the command line.
+
+        **Answer:** The two files that were in the test folder in HDFS were merged into a single file and stored on the local file system.
         
-     ![dfs_blocksize](https://github.com/prem1204/Pranay-Assignments/blob/Big-Data/images/emr/hdfs/dfs_blocksize.PNG)
+        ![dfs_blocksize](https://github.com/prem1204/Pranay-Assignments/blob/Big-Data/images/emr/hdfs/dfs_blocksize.PNG)
 
    2. Run the following fsck command on data.txt
         
@@ -120,7 +121,6 @@ Following are the steps to be performed in this lab:-
    3. How many blocks are there for this file?
 
         **Answer:** The file should be broken down into two blocks.
-
 
 
 ***Result -> You should now be comfortable with executing the various HDFS commands, including creating directories, putting files into HDFS, copying files out of HDFS, and deleting files and folders.***
