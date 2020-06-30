@@ -22,14 +22,14 @@ zipcode int);*
 
 *load data infile '<path-to-file>/salaries.txt' into table salaries fields terminated by ',' ;*
 
-*[Note] -> If you get an infile error while inserting the data follow below steps:-*
+*[Note] ->* If you get an infile error while inserting the data follow below steps:-
 
       *  Close current SQL connection
       *  Right click on your Connection and select 'Edit Connection'
       *  Click on Advanced
       *  Add following line to 'Others'
 
-        *OPT_LOCAL_INFILE=1*
+        OPT_LOCAL_INFILE=1
 
       *  Now Reconnect to your database
 
