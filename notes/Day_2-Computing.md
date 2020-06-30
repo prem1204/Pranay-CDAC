@@ -35,7 +35,7 @@ In this architecture, the application is modelled as a set of services that are 
 
 Multi-tier architecture is a client–server architecture in which the functions such as presentation, application processing, and data management are physically separated. By separating an application into tiers, developers obtain the option of changing or adding a specific layer, instead of reworking the entire application. It provides a model by which developers can create flexible and reusable applications.
 
-  [n_tier](../../Pranay-CDAC/notes/images/n_tier_architecture.jpg)
+   [n_tier](images/n_tier_architecture.jpg)
 
 The most general use of multi-tier architecture is the three-tier architecture. A three-tier architecture is typically composed of a presentation tier, an application tier, and a data storage tier and may execute on a separate processor.
 
