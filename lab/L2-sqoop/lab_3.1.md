@@ -72,8 +72,8 @@ Following are the steps to be performed in this lab:-
     ![sqoop-import-dfs-ls](../../images/sqoop/import/sqoop-import-dfs-ls-sal3.jpeg)
 
 14.  To verify whether data is present in this file use cat command
-     
-    ![sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat-sal3.jpeg)
 
+    ![sqoop-import-dfs-cat](../../images/sqoop/import/sqoop-import-dfs-cat-sal3.jpeg)
+    
 
 ***Result -> You have imported the data from MySQL to HDFS using the entire table, specific columns, and also using the result of a query.***
