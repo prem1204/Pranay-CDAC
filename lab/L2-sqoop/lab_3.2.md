@@ -1,4 +1,4 @@
-# LAB 3.1 -> Exporting HDFS Data to an RDBMS
+# LAB 3.2 -> Exporting HDFS Data to an RDBMS
 
 ***Objective -> Export data from HDFS into a MySQL table using Sqoop.***
 
