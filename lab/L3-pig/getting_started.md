@@ -57,7 +57,7 @@ Following are the steps to be performed in this lab:-
 
        2. Use 'Describe B' to view the schema
 
-        ![describe_b](../../images/pig/getting_started/describe_b.PNG
+        ![describe_b](../../images/pig/getting_started/describe_b.PNG)
 
     6. The STORE command
        1. Use STORE command, which stores the B relation into a folder named whouse_tab and seperates the fields of each record with tabs 
